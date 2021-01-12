@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonwerterWalutOnline.Android", "KonwerterWalutOnline\KonwerterWalutOnline.Android\KonwerterWalutOnline.Android.csproj", "{1EC09FC9-C56C-4966-AC9C-EC255E7D26A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonwerterWalutOnline", "KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline.csproj", "{F2EEF440-A5B9-4CAF-B494-55F25AD4F102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC09FC9-C56C-4966-AC9C-EC255E7D26A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC09FC9-C56C-4966-AC9C-EC255E7D26A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC09FC9-C56C-4966-AC9C-EC255E7D26A5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1EC09FC9-C56C-4966-AC9C-EC255E7D26A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC09FC9-C56C-4966-AC9C-EC255E7D26A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC09FC9-C56C-4966-AC9C-EC255E7D26A5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F2EEF440-A5B9-4CAF-B494-55F25AD4F102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EEF440-A5B9-4CAF-B494-55F25AD4F102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EEF440-A5B9-4CAF-B494-55F25AD4F102}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F2EEF440-A5B9-4CAF-B494-55F25AD4F102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EEF440-A5B9-4CAF-B494-55F25AD4F102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2EEF440-A5B9-4CAF-B494-55F25AD4F102}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BDC9A4-228A-477A-BE59-82B67DF4B881}
+	EndGlobalSection
+EndGlobal

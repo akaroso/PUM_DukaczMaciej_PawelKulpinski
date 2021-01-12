@@ -1,0 +1,14 @@
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\bin\Debug\netstandard2.0\KonwerterWalutOnline.deps.json
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\bin\Debug\netstandard2.0\KonwerterWalutOnline.dll
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\bin\Debug\netstandard2.0\ref\KonwerterWalutOnline.dll
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\bin\Debug\netstandard2.0\KonwerterWalutOnline.pdb
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\KonwerterWalutOnline.csprojAssemblyReference.cache
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\KonwerterWalutOnline.AssemblyInfoInputs.cache
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\KonwerterWalutOnline.AssemblyInfo.cs
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\KonwerterWalutOnline.csproj.CoreCompileInputs.cache
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\KonwerterWalutOnline.dll
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\ref\KonwerterWalutOnline.dll
+C:\Users\Akaro\source\repos\KonwerterWalutOnline\KonwerterWalutOnline\KonwerterWalutOnline\obj\Debug\netstandard2.0\KonwerterWalutOnline.pdb
